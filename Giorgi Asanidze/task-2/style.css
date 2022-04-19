@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+h2 {
+    margin: 20px 0 20px 0;
+}
+
+.buttons {
+    margin: 20px 0 20px 0;
+}
+
+button {
+    width: 140px;
+    height: 40px;
+}
+
+textarea {
+    margin: 20px 0 20px 0;
+    width: 270px;
+    height: 100px;
+}
+
+select {
+    width: 70px;
+}
+
+.home {
+    margin: auto;
+    width: 400px;
+    height: 40px;
+    padding: 10px;
+    border: 1px solid black;
+}
